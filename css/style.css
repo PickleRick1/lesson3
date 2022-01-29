@@ -1,0 +1,44 @@
+@import "null.css";
+
+ul li a {
+	color: blue;
+}
+h1 {
+	color: darkblue;
+}
+h2 {
+	color: olive;
+}
+.first-text + p {
+	color: darkred;
+}
+.first-text span {
+	color: dodgerblue;
+}
+#metallica {
+	color: khaki;
+}
+span {
+	color: lawngreen;
+}
+.first-letter {
+	color: mediumblue;
+}
+p {
+	color: orangered;
+}
+.menu-word {
+	color: black;
+}
+.second-text {
+	color: darkgrey;
+}
+footer p {
+	color: gold;
+}
+p.text {
+	color: indigo;
+}
+.first-span > span {
+	color: maroon;
+}
